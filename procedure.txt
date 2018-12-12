@@ -3,4 +3,6 @@ The steps taken to complete the assignment :
 - A dictionary is made to hold the similar words to each topic for categorizing the questions ( related words can also be scraped from the web which I considered to be out of scope for this assignment)
 - Each question is categorized into one or more category using the dictionary. For each question, an entry is made in the 'topic' column (Since the labelled data is not available, a classifier can not be made)
 - Sorting the questions based on the frequency given by 'Unnamed: 0' column
-- A new csv file is made having all column as topics with rows as the FAQs with decreasing frequency. 
+- A new csv file is made having all column as topics with rows as the FAQs with decreasing frequency.
+
+Notebook Link : https://nbviewer.jupyter.org/github/aliakbar09a/Getting_FAQs_topicwise/blob/master/assignment.ipynb
