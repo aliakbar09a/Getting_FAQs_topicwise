@@ -19,43 +19,43 @@ FAQ no.,Subject name,Topic name,Question
 18,Operating System,deadlock,Then they asked deadlock-i answered
 19,Operating System,security,? See the figure numbers correctly They ask question by just giving the figure no. And also the calculations may also be asked. The results were declared and I cleared the round Technical interview The techinal interviewer asked me to write few programs on c And he almost asked all the topics like Operation systems Information security- authentication authourisation DBMS Data structures Java Prepare well for all the topics HR Its very simple.
 20,Operating System,security,Me: security  platform independent...
-21,Database Management System,sql,* SQL query for Insertion  Deletion and Updation.
-22,Database Management System,sql,It is the method of dividing a table which would enable a quick reference.  SAP uses fact file partitioning to improve performance. We can partition only at  0CALMONTH or 0FISCPER. Table partitioning helps to run the report faster as data  is stored in the relevant partitions. Also table maintenance becomes easier.  Oracle  Informix  IBM DB2/390 supports table partitioning while SAP DB   Microsoft SQL Server  IBM DB2/400 do not support table portioning.
-23,Database Management System,sql,2. RDBMS:  questions based on codd's rules  normalization  sql queries
-24,Object_oriented_programing,Object,In SQL Server 2005  which of the following schema changes are supported for the publication objects of a replicated database?
-25,Object_oriented_programing,jdbc,When testing connectivity in SQL Server  you use which utility in conjunction with the readpipe utility to establish a connection?
-26,Object_oriented_programing,Object,DDL triggers cannot be signed  but all the other objects can.
-27,Object_oriented_programing,Inheritance,One additional key difference between interfaces and abstract classes (possibly the most important one) is that multiple interfaces can be implemented by a class  but only one abstract class can be inherited by any single class.
-28,Object_oriented_programing,Inheritance,The questions were very simple like about the company  net revenue  location of headquarters  CEO  our mini project  any key role played in mini project  any innovative ideas you came up with  basic questions on C and JAVA like what are the three OOP principles  what is encapsulation  what is inheritance. Etc.
-29,Object_oriented_programing,encapsulation,The questions were very simple like about the company  net revenue  location of headquarters  CEO  our mini project  any key role played in mini project  any innovative ideas you came up with  basic questions on C and JAVA like what are the three OOP principles  what is encapsulation  what is inheritance. Etc.
-30,Object_oriented_programing,thread,Imagine this scenario: I/O completion ports are communictaions ports which take handles to files  sockets  or any other I/O. When a Read or Write is submitted to them  they cache the data (if necessary)  and attempt to take the request to completion. Upon error or completion  they call a user-supplied function to let the users application know that that particular request has completed. They work asynchronously  and can process an unlimited number of simultaneous requests. Design the implementation and thread models for I/O completion ports. Remember to take into account multi-processor machines.
-31,Object_oriented_programing,Object,The object?s state (values)How does output caching work in ASP.NET?
-32,Object_oriented_programing,thread,OS-CPU Scheduling algorithms  Threads with Life Cycle  Paging concepts.
-33,Object_oriented_programing,jdbc,Then he asked me to tell OOPS concepts  Inheritance program and application  JDBC connection steps and if possible program too. But I said I don't know.
-34,Object_oriented_programing,Inheritance,Then he asked me to tell OOPS concepts  Inheritance program and application  JDBC connection steps and if possible program too. But I said I don't know.
-35,Object_oriented_programing,jdbc,16. How many types of JDBC driver-
-36,Object_oriented_programing,jdbc,Me: JDBC  MULTITHREADING  OOPS CONCEPTS.
-37,Object_oriented_programing,jdbc,Without using strrev  reversing a linked list  program to find factorial of a number  swings  Servlets  JDBC  etc.
-38,Object_oriented_programing,jdbc,12) Write JDBC connection Code (Only give overview)
-39,Object_oriented_programing,jdbc,Q. WAP JDBC code for fetching student database using MySQL.
-40,Object_oriented_programing,applet,3.when an java applet get's downloaded what happens
-41,,,
-42,,,
-43,,,
-44,,,
-45,,,
-46,,,
-47,,,
-48,,,
-49,,,
-50,,,
-51,,,
-52,,,
-53,,,
-54,,,
-55,,,
-56,,,
-57,,,
-58,,,
-59,,,
-60,,,
+21,Database Management System,sql,A few SQL queries were also asked (find second highest salary from a table) and SQL concepts like view  trigger  etc.
+22,Database Management System,sql,The other 25 questions were technical questions based on basic programming logics  java  object oriented technology  SQL  networking  etc and the time was 30 minutes. You could solve either of the sections first but cannot carry the timing of one section to the other one and also there was an option to go back to the questions so you could change your answer if you wanted.
+23,Database Management System,sql,The panel was too helpful and friendly. They tried to make the candidate comfortable. I questions on SQL  Java  SDLC and basic OOPS concepts.
+24,Database Management System,joints,The interview was quite easy. Most of the questions were from academic project  3 questions were from oops. He also asked me sql concepts like joins  normalization  triggering  indexing. As he is oracle team lead most of the questions he asked me from oracle that I was unable to answer and I just said that I don't have much knowledge in this. He also asked me to write a program to merge two strings. At the end he asked me to rate myself in java as well as oracle. After that he told many things about wipro when I asked him. My technical interview continued for about 35 minutes after an hour results were declared and I cleared my technical round. After that we were asked to leave for home.
+25,Database Management System,sql,The interview was quite easy. Most of the questions were from academic project  3 questions were from oops. He also asked me sql concepts like joins  normalization  triggering  indexing. As he is oracle team lead most of the questions he asked me from oracle that I was unable to answer and I just said that I don't have much knowledge in this. He also asked me to write a program to merge two strings. At the end he asked me to rate myself in java as well as oracle. After that he told many things about wipro when I asked him. My technical interview continued for about 35 minutes after an hour results were declared and I cleared my technical round. After that we were asked to leave for home.
+26,Database Management System,sql,For IS/CS DBMS basic knowledge  SQL queries is a must  few C program and C++ concept like inheritance  polymorphism etc  networking concepts is also important.
+27,Database Management System,sql,So  one must be through with all the java concepts because it also helps a lot during interview because VIRTUSA interviews are done mainly on JAVA. Coming to DBMS  the questions are related to SQL queries. Some bits are from Data Structures like stacks and queues.  There is a less focus on software testing  but basics should be clear and we have to know about types of testing and by whom the testing's are done in real world. The time given for these 40 questions is 40 minutes.
+28,Database Management System,joints,I attended Virtusa written test in Hyderabad. Written test consists of two sections. First section they asked on SQL  Java  UML  Software Engineering. SQL questions based on Joins. Try to understand question much quicker.
+29,Database Management System,sql,I attended Virtusa written test in Hyderabad. Written test consists of two sections. First section they asked on SQL  Java  UML  Software Engineering. SQL questions based on Joins. Try to understand question much quicker.
+30,Database Management System,sql,3. If you are from IT or CSE background then make sure that you know 2 programming languages  DBMS (very important)   sql queries are very important.
+31,Database Management System,sql,* SQL query for Insertion  Deletion and Updation.
+32,Database Management System,sql,It is the method of dividing a table which would enable a quick reference.  SAP uses fact file partitioning to improve performance. We can partition only at  0CALMONTH or 0FISCPER. Table partitioning helps to run the report faster as data  is stored in the relevant partitions. Also table maintenance becomes easier.  Oracle  Informix  IBM DB2/390 supports table partitioning while SAP DB   Microsoft SQL Server  IBM DB2/400 do not support table portioning.
+33,Database Management System,sql,2. RDBMS:  questions based on codd's rules  normalization  sql queries
+34,Database Management System,sql,Q. How will you create a table from an existing one (Ans: using select into SQL command)
+35,Database Management System,sql,What is the significance of the & and && operators in PL SQL ?
+36,Database Management System,ddl,Can one use dynamic SQL within PL/SQL? OR Can you use a DDL in a procedure ? How ?
+37,Database Management System,sql,Can one use dynamic SQL within PL/SQL? OR Can you use a DDL in a procedure ? How ?
+38,Database Management System,sql,2. SQL/PLSQL     see all commands in SQL and exception  cursors  in PLSQL.
+39,Database Management System,sql,The data dictionary cache is stored in an area in SGA called the shared pool. This will allow sharing of parsed SQL statements among concurrent users.
+40,Database Management System,sql,SQL * DBA - This allows DBA to monitor and control an ORACLE database. SQL * Loader - It loads data from standard operating system files (Flat files) into ORACLE database tables. Export (EXP) and Import (imp) utilities allow you to move existing data in ORACLE format to and from ORACLE database.
+41,Object_oriented_programing,Object,The other 25 questions were technical questions based on basic programming logics  java  object oriented technology  SQL  networking  etc and the time was 30 minutes. You could solve either of the sections first but cannot carry the timing of one section to the other one and also there was an option to go back to the questions so you could change your answer if you wanted.
+42,Object_oriented_programing,polymorphism,For IS/CS DBMS basic knowledge  SQL queries is a must  few C program and C++ concept like inheritance  polymorphism etc  networking concepts is also important.
+43,Object_oriented_programing,Inheritance,For IS/CS DBMS basic knowledge  SQL queries is a must  few C program and C++ concept like inheritance  polymorphism etc  networking concepts is also important.
+44,Object_oriented_programing,Object,In SQL Server 2005  which of the following schema changes are supported for the publication objects of a replicated database?
+45,Object_oriented_programing,jdbc,When testing connectivity in SQL Server  you use which utility in conjunction with the readpipe utility to establish a connection?
+46,Object_oriented_programing,Object,DDL triggers cannot be signed  but all the other objects can.
+47,Object_oriented_programing,Inheritance,One additional key difference between interfaces and abstract classes (possibly the most important one) is that multiple interfaces can be implemented by a class  but only one abstract class can be inherited by any single class.
+48,Object_oriented_programing,Inheritance,The questions were very simple like about the company  net revenue  location of headquarters  CEO  our mini project  any key role played in mini project  any innovative ideas you came up with  basic questions on C and JAVA like what are the three OOP principles  what is encapsulation  what is inheritance. Etc.
+49,Object_oriented_programing,encapsulation,The questions were very simple like about the company  net revenue  location of headquarters  CEO  our mini project  any key role played in mini project  any innovative ideas you came up with  basic questions on C and JAVA like what are the three OOP principles  what is encapsulation  what is inheritance. Etc.
+50,Object_oriented_programing,thread,Imagine this scenario: I/O completion ports are communictaions ports which take handles to files  sockets  or any other I/O. When a Read or Write is submitted to them  they cache the data (if necessary)  and attempt to take the request to completion. Upon error or completion  they call a user-supplied function to let the users application know that that particular request has completed. They work asynchronously  and can process an unlimited number of simultaneous requests. Design the implementation and thread models for I/O completion ports. Remember to take into account multi-processor machines.
+51,Object_oriented_programing,Object,The object?s state (values)How does output caching work in ASP.NET?
+52,Object_oriented_programing,thread,OS-CPU Scheduling algorithms  Threads with Life Cycle  Paging concepts.
+53,Object_oriented_programing,jdbc,Then he asked me to tell OOPS concepts  Inheritance program and application  JDBC connection steps and if possible program too. But I said I don't know.
+54,Object_oriented_programing,Inheritance,Then he asked me to tell OOPS concepts  Inheritance program and application  JDBC connection steps and if possible program too. But I said I don't know.
+55,Object_oriented_programing,jdbc,16. How many types of JDBC driver-
+56,Object_oriented_programing,jdbc,Me: JDBC  MULTITHREADING  OOPS CONCEPTS.
+57,Object_oriented_programing,jdbc,Without using strrev  reversing a linked list  program to find factorial of a number  swings  Servlets  JDBC  etc.
+58,Object_oriented_programing,jdbc,12) Write JDBC connection Code (Only give overview)
+59,Object_oriented_programing,jdbc,Q. WAP JDBC code for fetching student database using MySQL.
+60,Object_oriented_programing,applet,3.when an java applet get's downloaded what happens
