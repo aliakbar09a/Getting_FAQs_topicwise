@@ -1,4 +1,4 @@
-,Subject name,Topic name,Question
+FAQ no.,Subject name,Topic name,Question
 1,Operating System,caching,The data dictionary cache is stored in an area in SGA called the shared pool. This will allow sharing of parsed SQL statements among concurrent users.
 2,Operating System,caching,The data dictionary cache is stored in an area in SGA called the Shared SQL Pool. This will allow sharing of parsed SQL statements among concurrent users.
 3,Operating System,security,You are developing security policy for your SQL Servers and have all of the data entry clerks needing access to a series of tables. You create a Data Entry role and assign the proper permissions as well as add the users.
